@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "992784939764",
+    "firebase_url": "https://fir-tester-e6565.firebaseio.com",
+    "project_id": "fir-tester-e6565",
+    "storage_bucket": "fir-tester-e6565.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992784939764:android:5ee0c59963c87bef",
+        "android_client_info": {
+          "package_name": "com.example.conan.firebasetester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992784939764-j8rgvqqcpritrpdou80f1j4mat2to014.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcLYRnsLt8ajl1bbtaId5shoQt87YGaGw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
